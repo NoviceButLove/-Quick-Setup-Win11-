@@ -13,31 +13,31 @@ set "path=D:\$ROOT\ShortCut\"
 rem Set the variable "command" to the path of the shortcut
 set "command=%path%wechat.lnk"
 rem start in background, still, use "start", meaning start independently
-start /B %command%
+start "" %command%
 
 set "command=%path%code.lnk"
-start /B %command%
+start "" %command%
 
 set "command=%path%clash.lnk"
-start /B %command%
+start "" %command%
 
 set "command=%path%caps.lnk"
-start /B %command%
+start "" %command%
 
 set "command=%path%ps.lnk"
-start /B %command% -command "bash"
+start "" %command%
 
 set "command=%path%edge.lnk"
-start /B %command%
+start "" %command%
 
 set "command=%path%hwpanel.lnk"
-start /B %command%
+start "" %command%
 
 set "command=%path%lock.lnk"
-start /B %command%
+start "" %command%
 
 set "command=%path%pdfreader.lnk"
-start /B %command%
+start "" %command%
 
 rem Exit in force
 exit
