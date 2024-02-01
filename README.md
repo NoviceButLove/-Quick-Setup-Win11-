@@ -82,6 +82,20 @@
 
 > 这是我设置的。类似的，输入你设置的名称即可实现单独打开某个应用程序。
 
+---
+
+重启后
+
+![image-error](./images/11.png)
+
+按下 `Win + R` 输入 `launch`(需替换你设置的名称)
+
+![image-error](./images/12.png)
+
+效果（我这里最小化了）
+
+![image-error](./images/13.png)
+
 ## English
 
 ### Quick Open Tools After Your Win11 Setup(Focus on Reboot)
